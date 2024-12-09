@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Edimerk
-- 👀 I’m interested in cibersecurity and technology
+- 👀 I’m student of Systems Engineer interested in cibersecurity and technology
 - 🌱 I’m studying Systems Engineer
 - 📫 How to reach me
       -Email: luedsafa@gmail.com
